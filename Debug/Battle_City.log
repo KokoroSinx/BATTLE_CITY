@@ -1,0 +1,4 @@
+﻿  graphics.cpp
+c:\users\kasum\documents\visual studio 2010\projects\battle_city\battle_city\graphics.cpp(198): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\kasum\documents\visual studio 2010\projects\battle_city\battle_city\graphics.cpp(442): warning C4715: “bullet_action”: 不是所有的控件路径都返回值
+  Battle_City.vcxproj -> C:\Users\Kasum\Documents\Visual Studio 2010\Projects\Battle_City\Debug\Battle_City.exe
